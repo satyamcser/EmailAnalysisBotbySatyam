@@ -16,7 +16,7 @@ Welcome to the Email Analysis Assistant project! This tool leverages advanced na
 1. Clone this repository to your local machine.
 
    ```bash
-   git clone https://github.com/yourusername/EmailAnalysisAssistant.git
+   git clone https://github.com/satyamcser/EmailAnalysisBotbySatyam.git
 
 2. Navigate to the project directory.
 
