@@ -2,7 +2,7 @@
 
 ## Overview
 
-Welcome to the Email Analysis Assistant project! This tool leverages advanced natural language processing techniques to analyze email content, provide sentiment scores, categorize topics, and generate context-aware responses. Below are detailed instructions on how to run the project successfully.
+Welcome to the Email Analysis Assistant project by Satyam Mishra! This tool leverages advanced natural language processing techniques to analyze email content, provide sentiment scores, categorize topics, and generate context-aware responses. Below are detailed instructions on how to run the project successfully.
 
 ## Getting Started
 
